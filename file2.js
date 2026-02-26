@@ -1,3 +1,3 @@
 function file2() {
-    return null;
+    return "Hello JS";
 }
